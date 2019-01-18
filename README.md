@@ -13,6 +13,9 @@ You will be able to:
 * Understand and explain Part of Speech (POS) tagging, and why it is important in NLP
 * Manually create rules for a small recursive Context-Free Grammar
 * Demonstrate an understanding of Context-Free Grammars, and explain their importance in certain NLP tasks
+    * create an example of Context-Free Grammars
+    * compare/contrast with non context-free grammars
+    * describe how it is used in NLP
 
 ### Creating A Context-Free Grammar
 
